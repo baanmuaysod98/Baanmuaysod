@@ -1,0 +1,6 @@
+{
+  "name": "Baanmuaysod - ศูนย์ข้อมูลมวยไทยและโปรแกรมมวย",
+  "description": "ศูนย์รวมโปรแกรมมวยวันนี้ ผลการแข่งขันล่าสุด ประวัตินักมวย ปฏิทินศึกใหญ่ ข่าวสารมวยไทย และ 15 แม่ไม้มวยไทย เว็บไซต์นี้ไม่สนับสนุนการพนัน",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
